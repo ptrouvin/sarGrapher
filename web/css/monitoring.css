@@ -1,0 +1,73 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 avr. 2014, 15:39:20
+    Author     : trouvin
+*/
+
+body {
+    padding: 5px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+#logout,#home,.welcome {
+    float: right;
+}
+
+#register {
+    background-color: #e0e0e0;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border: 1px #000 solid;
+}
+
+.error {
+    background-color: lightsalmon;
+}
+
+.ok {
+    background-color: lightgreen;
+}
+
+.STATE0 {
+    background-color: lightgreen;
+}
+.STATE1 {
+    background-color: lightyellow;
+}
+.STATE2 {
+    background-color: lightsalmon;
+}
+.STATE3 {
+    background-color: lightgrey;
+}
+
+#objects {
+}
+
+#details {
+    display: none;
+    position:absolute;
+    width: 600px;
+    height: 200px;
+    /*z-index: 100;*/
+    border: #000 solid 1px;
+    font-size: 10px;
+    overflow: auto;
+}
+
+.nodeName {
+    font-weight: bold;
+    font-size: 12px;
+}

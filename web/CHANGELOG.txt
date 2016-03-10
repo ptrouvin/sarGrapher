@@ -1,0 +1,15 @@
+Changelog for sarGrapher
+
+Author: pascal TROUVIN <pascal.trouvin@o4s.fr>
+
+History:
+
+2014-11-03
+    remove case ignore from index.jsp/Device Graph Pattern
+2014-10-31
+    sshSelectSAlog.jsp: let select current SA data
+2014-10-28
+    group values by graphTag
+2014-10-27
+    fix some missing fields when used with RHEL4 hosts
+    let user select device to graph

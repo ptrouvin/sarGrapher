@@ -1,0 +1,2 @@
+procs,arch,date,OS,hostname,OS_VERSION
+40,"_x86_64_","23/08/2014","Linux","PPLAED03.bpce-res.fr","2.6.32-431.el6.x86_64"
